@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fae8407cc4bb4a57bedbcf49",
+  "owner": "wegyvj",
+  "repo": "page-5397fcdca242ff207c73af19",
+  "title": "兰溪谷",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5397fcdca242ff207c73af19",
+      "a": "兰溪谷",
+      "b": "机场官网线路发布页",
+      "entity": "兰溪谷",
+      "brand": "兰溪谷",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a27cb27da98e27b1ed1a90ab2e8fe6831ca60e984c44016aef21441b38480b7e",
+      "content": {
+        "primary_entity": "兰溪谷",
+        "keyword1": "兰溪谷",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，订阅配置完成即可开始使用。",
+          "AI_CLIENTS_TITLE": "多设备客户端选择",
+          "AI_CLOSING_TEXT": "根据日常设备数量与流量需求挑选套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐，配置订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档选择，分别对应 3 台、5 台与 20 台设备同时在线，月流量覆盖 100GB 至 1000GB，年付可享更优价格。客户端覆盖桌面与移动系统，按设备导入订阅即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线。设备数量按同时连接计算，可在套餐说明中查看具体数值。",
+          "AI_FAQ_ANSWER_2": "三个套餐每月流量分别为 100GB、300GB 与 1000GB。日常浏览与流媒体使用可选择基础版，多设备或高带宽需求建议旗舰版及以上。",
+          "AI_FAQ_ANSWER_3": "在对应客户端中导入订阅地址后更新节点即可使用。不同系统客户端操作略有差异，可参照客户端文档完成配置。",
+          "AI_FAQ_ANSWER_4": "可按月付费，也可按年付费。基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元，年付相比月付更划算。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化与优先工单支持，团队版提供 VIP 高带宽节点与企业定制路由，可按使用场景选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时连接几台设备？",
+          "AI_FAQ_QUESTION_2": "不同套餐的每月流量有什么区别？",
+          "AI_FAQ_QUESTION_3": "订阅配置需要在客户端做什么操作？",
+          "AI_FAQ_QUESTION_4": "按月付费和按年付费如何选择？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版多了哪些功能？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和使用周期出发，选择匹配的套餐并完成客户端订阅。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备适合个人日常使用，旗舰版 5 台适合家庭与多终端场景，团队版 20 台满足小型协作需求。",
+          "AI_FEATURE_TEXT_2": "100GB 至 1000GB 的月流量梯度覆盖不同强度需求，按年付还能进一步降低月均成本。",
+          "AI_FEATURE_TEXT_3": "订阅导入后可在常用客户端中更新节点，更换设备时重新导入订阅即可恢复使用。",
+          "AI_FEATURE_TITLE_1": "设备数量匹配",
+          "AI_FEATURE_TITLE_2": "流量与周期",
+          "AI_FEATURE_TITLE_3": "订阅配置",
+          "AI_GUIDE_INTRO": "从选择服务到完成订阅配置，按三个步骤快速开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "兰溪谷提供多档海外加速套餐，按设备数量与月流量划分版本，覆盖桌面与移动客户端的订阅配置，适合个人、家庭与小型团队选择。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "三档套餐适配不同设备数量",
+          "AI_HIGHLIGHT_2": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_3": "年付方案降低长期使用成本",
+          "AI_PLANS_INTRO": "三档套餐在设备数量、月流量与附加权益上依次提升，可按使用强度对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常同时在线的设备数量与每月流量消耗，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量、流量额度和支持的客户端系统，确认满足使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅地址并更新节点，按客户端文档完成配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "兰溪谷套餐速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wzwsc.cn",
+    "host": "wzwsc.cn"
+  },
+  "file_hashes": {
+    "index.html": "db71d8dbcb027a491e17edd4e3698f2daa558bad1fd027110402d016457b2f83",
+    "sitemap.xml": "246a0df4d0d01708432336d4caf6183c99f6d65b26e9b166777e9ef371457d45",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "60fcc8335c8ebc86d00409d403de1e3e69ea08b7691d2d193c99f3d7d7c88288",
+    "robots.txt": "8a983fd5be8a88f47e430bccf387ae73c416dcad312c431e28a49c69d93d1469",
+    "f553a2402ae182aa198d236ec0a0ed63.txt": "1c33a0f931bc019d28509675ea64294a2c42d51a8be0df9127bba72f7b5e7a00"
+  },
+  "revision": "d98426b78e0114cd60d4f06b89a054651ea15ea14adda3d92d16d305d0b521a1"
+}
